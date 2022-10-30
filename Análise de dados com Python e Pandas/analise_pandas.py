@@ -1,3 +1,5 @@
+#Neste código está mostrando como realizar a análise através do Google Colab
+
 #Importando as bibliotecas
 import pandas as pd
 import matplotlib.pyplot as plt
